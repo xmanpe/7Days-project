@@ -35,7 +35,7 @@
  - <code>npm install jquery</code>
  - <code>npm install framer-motion</code>
  - <code>npm install react-router-dom@6</code>
-* Setelah semuanya terinstall, (terminal jangan di close) <i>copy, paste, & replace</i> semua files yang ada di folder <strong>theGame</strong> ke dalam folder sevendays
+* Setelah semuanya terinstall, (terminal jangan di close) <i>copy, paste, & replace</i> semua files yang ada di folder <strong>7Days-project-main</strong> ke dalam folder sevendays
 * Setelah itu, di terminal ketik <code>npm start</code>
 
 <strong>Happy gaming!</strong>
